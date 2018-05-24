@@ -19,6 +19,7 @@ public class GitTest {
     public static void main(String[] args) {
         DataBean tim = new DataBean("Tim", "Error");
         DataBean adrian = new DataBean("Adrian", "Test");
+        DataBean Dasdas = new DataBean("Adrian", "Test");
     }
     
 }
